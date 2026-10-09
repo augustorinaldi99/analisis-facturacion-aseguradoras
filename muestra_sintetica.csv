@@ -1,0 +1,6 @@
+Estado,Referencia,Aseguradora,Asegurado,Factura,Emisión,Vencimiento,Total
+Pagada,30000001,Aseguradora Ficticia Alfa,Cliente sintético,FAC-001,2026-04-12,2026-05-12,100000
+Pendiente,30000002,Aseguradora Ficticia Beta,Cliente sintético,FAC-002,2026-05-18,2026-06-18,120000
+Pagada,30000003,Aseguradora Ficticia Alfa,Cliente sintético,FAC-003,2026-07-09,2026-08-09,160000
+Pagada,30000004,Aseguradora Ficticia Gamma,Cliente sintético,FAC-004,2026-08-25,2026-09-25,80000
+Pendiente,30000005,Aseguradora Ficticia Beta,Cliente sintético,FAC-005,2026-10-07,2026-11-07,90000
